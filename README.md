@@ -13,6 +13,7 @@ For more information contact ngkhang.v@gmail.com
 To know more Khang, you can visit my website or connect with me on LinkedIn
 
 My portfolio: https://khangnguyen.netlify.app/
+
 My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
 
 <p class="aligncenter">
