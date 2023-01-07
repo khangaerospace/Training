@@ -62,6 +62,13 @@ Your system will require the [desktop Github application](https://desktop.github
 9.  In your browser, find the branch you just uploaded and select `Compare & pull request` to start a new PR. 
 10. Enter a PR title and detailed description. Provide motivation, any references and results. Select `Create pull request` to initiate the continuous integration (CI) pipeline.
 <p class="aligncenter">
-    <img src="./images/11.png" alt="centered image" />
+    <img src="./images/9to10.png" alt="centered image" />
 </p>
 11. Congratulations, You just created your first pull request.
+<p class="aligncenter">
+    <img src="./images/11.png" alt="centered image" />
+</p>
+
+#Appendix 
+
+[1] This was modified from [Astris Aerospace Inc.](https://www.astrisaerospace.com/) CONTRIBUTION.md document in the ACSToolbox project.
