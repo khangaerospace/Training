@@ -62,4 +62,4 @@ Your system will require the [desktop Github application](https://desktop.github
     <img src="./images/root/3-GitPR.png"/>
 </p>
 
-11. Congratulations, You just created your first pull request. 
+11. Congratulations, You just created your first pull request. s
