@@ -5,7 +5,7 @@
   - [Contribute Bug Fixes and New Features](#contribute-bug-fixes-and-new-features)
 - [Contributing Using Pull Requests](#contributing-using-pull-requests)
   - [Fork, Branch, Edit and Push](#fork-branch-edit-and-push)
-
+- [Appendix](#appendix)
 ## Ways To Contribute
 
 ### Report Bugs and Provide Suggestions
