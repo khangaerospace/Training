@@ -2,6 +2,8 @@
 
 This repository is to teach students about technologies such as coding using different programming languages, version control using Github, and programming algorithms. The development and maintenance is sponsored by [Khang Nguyen](https://khangnguyen.netlify.app/).
 
+You can see the contribution of each students.
+
 ## Contact Information
 
 For more information contact ngkhang.v@gmail.com
