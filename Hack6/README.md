@@ -69,6 +69,6 @@ Your system will require the [desktop Github application](https://desktop.github
     <img src="./images/11.png" alt="centered image" />
 </p>
 
-#Appendix 
+# Appendix 
 
 [1] This was modified from [Astris Aerospace Inc.](https://www.astrisaerospace.com/) CONTRIBUTION.md document in the ACSToolbox project.
