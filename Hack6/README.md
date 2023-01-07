@@ -61,9 +61,7 @@ Your system will require the [desktop Github application](https://desktop.github
 
 9.  In your browser, find the branch you just uploaded and select `Compare & pull request` to start a new PR. 
 10. Enter a PR title and detailed description. Provide motivation, any references and results. Select `Create pull request` to initiate the continuous integration (CI) pipeline.
-
 <p class="aligncenter">
-    <img src="./images/root/3-GitPR.png"/>
+    <img src="./images/9to10.png" alt="centered image" />
 </p>
-
-11. Congratulations, You just created your first pull request. s
+11. Congratulations, You just created your first pull request.
