@@ -1,11 +1,16 @@
+# How to use Github
+
+Github is a powerful tool for software engineers to collaborate and perform version control. This document will teach students how to make a pull request using Github.
+
 ## Table of contents
-- [Table of contents](#table-of-contents)
-- [Ways To Contribute](#ways-to-contribute)
-  - [Report Bugs and Provide Suggestions](#report-bugs-and-provide-suggestions)
-  - [Contribute Bug Fixes and New Features](#contribute-bug-fixes-and-new-features)
-- [Contributing Using Pull Requests](#contributing-using-pull-requests)
-  - [Fork, Branch, Edit and Push](#fork-branch-edit-and-push)
-- [Appendix](#appendix)
+- [How to use Github](#how-to-use-github)
+  - [Table of contents](#table-of-contents)
+  - [Ways To Contribute](#ways-to-contribute)
+    - [Report Bugs and Provide Suggestions](#report-bugs-and-provide-suggestions)
+    - [Contribute Bug Fixes and New Features](#contribute-bug-fixes-and-new-features)
+  - [Contributing Using Pull Requests](#contributing-using-pull-requests)
+    - [Fork, Branch, Edit and Push](#fork-branch-edit-and-push)
+  - [Appendix](#appendix)
 ## Ways To Contribute
 
 ### Report Bugs and Provide Suggestions
@@ -69,6 +74,6 @@ Your system will require the [desktop Github application](https://desktop.github
     <img src="./images/11.png" alt="centered image" />
 </p>
 
-# Appendix 
+## Appendix 
 
 [1] This was modified from [Astris Aerospace Inc.](https://www.astrisaerospace.com/) CONTRIBUTION.md document in the ACSToolbox project.
