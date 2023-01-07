@@ -48,6 +48,10 @@ Your system will require the [desktop Github application](https://desktop.github
 
 5. In the desktop application, select `New branch` under the `Current branch` dropdown menu.
 6. Give your branch an appropriate name and click `Create branch`.
+<p class="aligncenter">
+    <img src="./images/4to6.png" alt="centered image" />
+</p>
+
 7. Code your Example.py and save it into your local `Training` folder. Open your Github desktop application, commit your code to your branch while providing an appropriate description.
 8. In the desktop application, select `Publish branch` to push your new code to your online repository
 
