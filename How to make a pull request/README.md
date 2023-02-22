@@ -1,6 +1,6 @@
 # How to use Github
 
-Github is a powerful tool for software engineers to collaborate and perform version control. This document will teach students how to make a pull request using Github.
+Github is a powerful tool for software engineers to collaborate and perform version control. This document will teach students how to make a pull request using Github Desktop.
 
 ## Table of contents
 - [How to use Github](#how-to-use-github)
