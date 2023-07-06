@@ -1,4 +1,4 @@
-# How to use Github
+# How to use Github Desktop
 
 Github is a powerful tool for software engineers to collaborate and perform version control. This document will teach students how to make a pull request using Github Desktop.
 
